@@ -1,4 +1,8 @@
 /*.pt
 
+/**/*.png
+/**/*.mp4
 /imgs/*
 !/imgs/.gittouch
+/vids/*
+!/vids/.gittouch
